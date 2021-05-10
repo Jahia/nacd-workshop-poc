@@ -1,0 +1,10 @@
+#header[data-v-5b5c4f22] {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 1000;
+    border-bottom: 1px solid #fff;
+    display: block;
+    background-color: #3def07;
+}
